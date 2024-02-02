@@ -1,16 +1,7 @@
-# Topics in Software Engineering
+# Wellness Tracker
 
-This is a template repository for the topics in software engineering class I teach at CCNY.
-It comes with a pre-configured devcontainer that includes most of the tools you'll need during this semester. 
-If you start with this repository as a template you will have a ready to go development environment that you'll be able to 
-share with your team mates. Additionally, a demo github action workflow has been setup to help you with your first assignment.
+## Description
+This app combines all of the different metrics that people who workout tend to track. This includes diet, workout, and weight. So, this app will allow users to log what foods they are eating and display their calories and macros. Also, users can add workouts they do and see their progress overtime. Finally, users can track their weight and track trends. The three components can work together to help the user achieve their personal goal. For example, someone that is bulking will tell the app their goal. Then, if they are logging 2500 calories and weight that is increasing everyday, the app can recommend 2400 calories. Could be a web app but ideally a mobile app would be perfect (not sure if that is outside the scope of this class)
 
-# Tools
-The tools that are installed with this devcontainer are:
-
-* act which allows you to run GitHub Actions in the local development environment.
-* terraform which lets you automate infrastructure provisioning
-* aws cli for interacting with AWS environment.
-
-# For Students
-If you are a student in the class you can create a new repository using this template. Once you've created a repository of your own replace the content of this file with the description or you project idea.
+## Primary User
+Anyone that has fitness goals and wants help keeping track of everything. Based on my experience, there is no tool that combines the different metrics that people track. Thats why I use three different tools to achieve a similar experience. So, anyone that would want the ease of use from having all three metrics in one app would be the primary user. 
